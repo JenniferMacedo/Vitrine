@@ -1,3 +1,3 @@
-# Projeto inicial da diciplina
+# Projeto inicial da disciplina
 
 ## Jennifer Macedo
