@@ -1,2 +1,3 @@
-# Vitrine
-Projeto feito em sala de aula - S.I.
+# Projeto incial da diciplina
+
+## Jennifer Macedo
